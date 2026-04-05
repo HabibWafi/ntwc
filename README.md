@@ -1,6 +1,6 @@
 Nusantara TwinChain adalah platform nasional berbasis AI dan Blockchain untuk tracking, analisis, dan transaksi komoditas pertanian Indonesia. Platform mengintegrasikan data resmi BPS (survei KSA & Ubinan), Bulog, dinas daerah, petani, hingga konsumen dalam satu ekosistem transparan. Menjawab isu ketahanan pangan, disparitas harga, dan penimbunan melalui dashboard real-time, prediksi AI, deteksi anomali, serta marketplace on-chain yang memotong rantai distribusi berlebih. Digagas pegawai BPS aktif, solusi ini mendukung ketahanan pangan nasional sebagai fondasi ekonomi digital Indonesia yang inklusif.
 Baca Rancangannya di :
-nusantara-twinchain-prd.md
+https://github.com/HabibWafi/ntwc/blob/e28357bfda9e16f5583669e430dd1d0500a32b06/nusantara-twinchain-prd.md
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
